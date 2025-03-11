@@ -1,4 +1,6 @@
 # Pacman-Game
-Fully functional pacman game that can use minor modifications.
-Such as making pacman able to eat the ghosts,
-and different levels with different maps.
+•	Utilized Java to design a classic Pacman game with ghost AI, collision detection, and level progression.
+
+•	Developed real-time game loops, key event handling, and score tracking.
+
+
